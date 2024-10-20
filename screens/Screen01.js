@@ -7,23 +7,23 @@ export default function Screen01({navigation}) {
 
     const account = [
         {
-            email:'maihothienthach1',
+            email:'maihothienthach1@gmail.com',
             pass:'111'
         },
         {
-            email:'maihothienthach2',
+            email:'maihothienthach2@gmail.com',
             pass:'222'
         },
         {
-            email:'maihothienthach3',
+            email:'maihothienthach3@gmail.com',
             pass:'333'
         },
         {
-            email:'maihothienthach4',
+            email:'maihothienthach4@gmail.com',
             pass:'444'
         },
         {
-            email:'maihothienthach5',
+            email:'maihothienthach5@gmail.com',
             pass:'555'
         },
     ]
